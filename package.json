@@ -1,0 +1,23 @@
+{
+  "name": "2-2a77181466fc40029a6fcd16cf24ebd9",
+  "version": "1.0.0",
+  "description": "- View the rubric for this assessment [here](https://storage.googleapis.com/hatchways.appspot.com/employers/springboard/student_rubrics/Node%202%20-%20Student%20Guide.pdf)",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.12.0"
+  },
+  "devDependencies": {
+    "cypress": "^13.14.0",
+    "supertest": "^7.0.0"
+  }
+}
